@@ -7,6 +7,6 @@ It poorly emulates a flashbang by playing an explosion noise, changing the scree
 
 I use the Camera API as well as the Sensor API to achieve this.
 
-I was fortunate to come across this great [tutorial on the accelerometer]http://www.techrepublic.com/blog/software-engineer/a-quick-tutorial-on-coding-androids-accelerometer/ which I used as a framework for that functionality.
+I was fortunate to come across this great [tutorial on the accelerometer](http://www.techrepublic.com/blog/software-engineer/a-quick-tutorial-on-coding-androids-accelerometer/) which I used as a framework for that functionality.
 
 Have fun with it!
